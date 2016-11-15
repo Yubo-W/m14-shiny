@@ -1,4 +1,5 @@
 # From http://shiny.rstudio.com/articles/basics.html
+install.packages("shiny")
 library(shiny)
 
 # Define UI for application that draws a histogram
